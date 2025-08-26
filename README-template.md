@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/barbare999/Calculator-main.git)
-- Live Site URL: (https://barbare999.github.io/Calculator-main/)
+- Solution URL: (https://github.com/BarbareUgrekhelidze/Calculator-main.git)
+- Live Site URL: (https://BarbareUgrekhelidze.github.io/Calculator-main/)
 
 ### Built with
 
@@ -33,5 +33,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Calculator app main](https://barbare999.github.io/Calculator-main/)
-- Frontend Mentor - [@BarbareUgrekhelidze](https://www.frontendmentor.io/profile/barbare999)
+- Website - [Calculator app main](https://BarbareUgrekhelidze.github.io/Calculator-main/)
+- Frontend Mentor - [@BarbareUgrekhelidze](https://www.frontendmentor.io/profile/BarbareUgrekhelidze)
